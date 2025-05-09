@@ -11,13 +11,14 @@ Este é um projeto de uma landing page inspirada na Nike, desenvolvido como part
 ## 📷 Preview
 
 <p align="center">
-  <img src="assets/Tenis Verde.png " alt="Tênis Verde" width="45%" />
-   <img src="assets/Tenis rosa.png " alt="Tênis Rosa" width="45%" />                                                                                                                 
+  <img src="assets/Tenis Verde.png " alt="Tênis Verde" width="30%" />
+   <img src="assets/Tenis rosa.png " alt="Tênis Rosa" width="30%" />
+   <img src="assets/Tenis azul.png " alt="Tênis Azul" width="30%" />                                                   
 </p>
 
 ## 💡 Funcionalidades
 
-- Layout responsivo e moderno.
+- Layout interativo e moderno.
 - Troca de cores do produto ao clicar nos botões coloridos.
 - Fontes personalizadas do Google Fonts.
 
