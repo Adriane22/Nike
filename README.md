@@ -11,9 +11,8 @@ Este é um projeto de uma landing page inspirada na Nike, desenvolvido como part
 
 ## 📷 Preview
 
-![Imagem da página](./assets/nike1.png)
-![Imagem da página](./assets/nike2.png)
 
+<img src"assets/Tenis Verde.png />
 ## 💡 Funcionalidades
 
 - Layout responsivo e moderno.
