@@ -12,6 +12,7 @@ Este é um projeto de uma landing page inspirada na Nike, desenvolvido como part
 ## 📷 Preview
 
 ![Imagem da página](./assets/nike1.png)
+<img src"https://raw.githubusercontent.com/Adriane22/Nike/2103e1668961ffa12d4ed47b9a6fc454ed7eb802/assets/Tenis%20Verde.png"/>
 
 ## 💡 Funcionalidades
 
