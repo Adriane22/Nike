@@ -8,12 +8,10 @@ Este é um projeto de uma landing page inspirada na Nike, desenvolvido como part
 - CSS3
 - JavaScript
 
-
-## 📷 Preview
 ## 📷 Preview
 
-![Página Inicial](assets/preview1.png)
-![Interação de Cores](assets/preview2.gif)
+
+![Interação de Cores](assets/Tenis Verde.png)
 
 
 ## 💡 Funcionalidades
