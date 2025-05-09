@@ -12,7 +12,7 @@ Este é um projeto de uma landing page inspirada na Nike, desenvolvido como part
 
 <p align="center">
   <img src="assets/Tenis Verde.png " alt="Tênis Verde" width="45%" />
- 
+   <img src="assets/Tenis rosa.png " alt="Tênis Rosa" width="45%" />                                                                                                                 
 </p>
 
 ## 💡 Funcionalidades
