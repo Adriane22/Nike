@@ -3,10 +3,8 @@
 Este é um projeto de uma landing page inspirada na Nike, desenvolvido como parte do meu processo de transição de carreira para a área de tecnologia. A página apresenta um modelo de tênis com visual dinâmico e interação por meio de JavaScript.
 
 ## 🚀 Tecnologias utilizadas
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"/>
 
-- HTML5  
-- CSS3  
-- JavaScript
 
 ## 📷 Preview
 
