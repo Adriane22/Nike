@@ -4,24 +4,23 @@ Este é um projeto de uma landing page inspirada na Nike, desenvolvido como part
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
 - JavaScript
 
 ## 📷 Preview
 
-## 📷 Preview
-
-![Tênis Verde](assets/tenis-verde.png)
-
-
-
+<p align="center">
+  <img src="assets/Tenis Verde.png " alt="Tênis Verde" width="45%" />
+ 
+</p>
 
 ## 💡 Funcionalidades
 
 - Layout responsivo e moderno.
 - Troca de cores do produto ao clicar nos botões coloridos.
 - Fontes personalizadas do Google Fonts.
+
 
 
 
